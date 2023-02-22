@@ -37,8 +37,4 @@ public class MainActivity extends AppCompatActivity {
     public void onBtn3Clicked(View v) {
         Toast.makeText(this, "Button3 Clicked", Toast.LENGTH_SHORT).show();
     }
-
-    public void onBtn4Clicked(View v) {
-        Toast.makeText(this, "Button4 Clicked", Toast.LENGTH_SHORT).show();
-    }
 }
